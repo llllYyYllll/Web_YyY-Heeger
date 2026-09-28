@@ -1,0 +1,19 @@
+.name_tag {
+    font-size: 100px;
+    font-weight: bold;
+    color: #ff75bc;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin: 10px;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    /* margin: 10px auto */
+}
+
+.name_tag_container {
+    text-align: center;
+}
+
